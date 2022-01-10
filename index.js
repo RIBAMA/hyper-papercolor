@@ -1,5 +1,9 @@
-const backgroundColor = '#EEEEEE';
-const foregroundColor = '#444444';
+const backgroundColor = '#444444';
+//const backgroundColor = '#1C1C1C';//may be
+
+const foregroundColor = '#EEEEEE';
+//const backgroundColor = '#EEEEEE';
+//const foregroundColor = '#444444';
 const cursorColor = 'rgba(31, 188, 210, 0.8)';
 const borderColor = 'rgba(0, 0, 0, 0.15)';
 
